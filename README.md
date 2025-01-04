@@ -1,2 +1,2 @@
 # internship_project_gold_price_pred._model
-we have done gold price prediction while doing my internship
+Applied Random Forest and ARIMA models to predict gold prices with 97% accuracy.
